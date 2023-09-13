@@ -1,0 +1,11 @@
+fileignoreconfig:
+- filename: Config/DefaultGame.ini
+  checksum: 67eff4072eee005cb4c7c99ed0ed67afdde7571699d7b1371620fdc79f6ca55c
+- filename: Config/DefaultEngine.ini
+  checksum: f44d8ddce0a6ca206dde9059604c0e0a0aa3a4f616299f1e2f136c323f7f8c6d
+- filename: Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
+  checksum: 65d86fe97ca7dec6599cc1cd6928eeb7ecaaed63006de999161fb7d53307390b
+- filename: Config/DefaultInput.ini
+  checksum: aa66772c2e11f023ce754317ea7ba83be60ca8edbd0d29fc487156aa8143eac1
+version: ""
+
